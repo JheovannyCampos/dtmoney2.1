@@ -1,4 +1,3 @@
-
 import outcomeImg from '../../assets/outcome.svg'
 import totalImg from '../../assets/total.svg'
 import incomeImg from '../../assets/income.svg';
